@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+</head>
+
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    height: 595px;
+    width: 842px;
+  }
+
+  * {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: 0;
+  }
+
+  span {
+    font-size: 0.8rem;
+  }
+
+  h6 {
+    font-size: 0.6rem;
+  }
+</style>
+
+
+<body style="display: flex; flex-direction: column; height: 595px; width: 842px;">
+  <section class="container" style="width: 100%; padding: 1rem;">
+    <header
+      style="display: flex; justify-content: flex-start; align-items: flex-start; height: 10vh; width: 100%; margin-bottom: 2rem;">
+      <div class="header-info"
+        style="display: flex; flex-direction: column; justify-content: flex-end; height: 100%; width: 45%; margin-bottom: 2rem;">
+        <span>Relatório: Agosto de 2022</span> <!-- Aqui tu passa dinamicamente o mês e o ano -->
+        <span>Paciente: Maria José da Silva</span> <!-- Aqui tu passa dinamicamente o nome do paciente -->
+        <span>Data de nascimento: 08/08/1988</span>
+        <!-- Aqui tu passa dinamicamente a data de nascimento do paciente -->
+      </div>
+
+      <img class="logo" src="../assets/SequipeLogo.svg" style="height: 70%;" />
+    </header>
+  </section>
+
+  <section class="content" style="flex: 1; width: 100%; padding: 0 1rem;">
+
+    <div class="time-and-days"
+      style="display: flex; justify-content: flex-start; align-items: center; width: 100%; height: 7%;">
+      <div class="time" style="display: flex; width: 10%; height: 100%; align-items: center;">
+        <span>
+          08:00
+          <!-- Aqui tu passa dinamicamente a hora da medicação -->
+        </span>
+      </div>
+
+      <div class="date"
+        style="display: grid; gap: 0.2rem; grid-area: dates; grid-template-columns: repeat(31, 1fr); grid-template-rows: 1fr; height: 100%; width: 75%;">
+        <div class="day"
+          style="display: flex; height: 100%; width: 100%; flex-direction: column; justify-content: space-around; align-items: center; font-size: 0.6rem; line-height: 0.85rem; text-align: center;">
+          <!--  Usa o loop na DIV com a class "DAY" pra renderizar os dias com base no mês atual. 28, 30 ou 31 dias -->
+          <span>
+            Seg
+            <br />
+            01
+          </span>
+        </div>
+      </div>
+
+      <div style="display: flex; flex: 1;"></div>
+    </div>
+
+    <div class="table-row"
+      style="display: flex; flex-direction: row; justify-content: flex-start; align-content: center; width: 100%; height: 2rem;">
+      <div class="table-row-name"
+        style="display: flex; justify-content: center; align-items: center; width: 10%; height: 100%; overflow: hidden;">
+        <span>
+          Avastin
+          <!-- Aqui tu passa dinamicamente o nome da medicação -->
+        </span>
+      </div>
+
+      <div class="table"
+        style="display: grid; gap: 0.2rem; grid-template-columns: repeat(31, 1fr); grid-template-rows: 1fr; background-color: #C6C6C6; height: 100%; width: 75%;">
+        <div class="rounded"
+          style="width: 12px; height: 12px; border-radius: 0.75rem; border-width: 0.12rem; border-color: #8D8D8D; background-color: white; border-style: solid; justify-self: center; align-self: center;">
+        </div>
+        <!-- Faz um loop aqui pra colocar a quantidade de bolinhas com base na qtd de dias do mês -->
+      </div>
+
+      <aside class="pill-feedback"
+        style="display: flex; height: 70%; width: 13%; align-self: center; border-radius: 1.3rem; border-width: 0.12rem; border-color: black; border-style: solid; margin-left: 0.75rem; overflow: hidden;">
+        <span class="pill-feedback-fill"
+          style="display: flex; flex: 1; justify-content: center; align-items: center;">33%</span>
+        <!-- Aqui tu altera o valor da capsula final -->
+        <span class="pill-feedback-fill"
+          style="  display: flex; flex: 1; justify-content: center; align-items: center; background-color: red;">06%</span>
+        <span class="pill-feedback-fill"
+          style="  display: flex; flex: 1; justify-content: center; align-items: center; background-color: yellow;">12%</span>
+      </aside>
+    </div>
+
+  </section>
+</body>
+
+</html>
