@@ -1,0 +1,227 @@
+<mjml height="595px">
+  <mj-head>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
+    <mj-attributes>
+      <mj-all font-family="Montserrat" font-size="9px" padding="0px" color="black" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="842px" background-color="white">
+    <mj-section>
+      <mj-column>
+        <mj-image align="center" width="60px" src="https://s3.sa-east-1.amazonaws.com/sequipe.epione.dev.br/assets/emailSequipe.png"></mj-image>
+
+        <mj-text font-size="14px">Relatório: Agosto 2022</mj-text>
+        <mj-spacer height="4px" />
+        <mj-text font-size="14px">Paciente: Kaê Benning</mj-text>
+        <mj-spacer height="4px" />
+        <mj-text font-size="14px">Data de nascimento: 01/06/2000</mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr>
+            <th />
+            <th>Seg 01</th>
+            <th>Ter 02</th>
+            <th>Qua 03</th>
+            <th>Qui 04</th>
+            <th>Sex 05</th>
+            <th>Seg 06</th>
+            <th>Seg 07</th>
+            <th>Seg 08</th>
+            <th>Seg 09</th>
+            <th>Seg 10</th>
+            <th>Seg 11</th>
+            <th>Seg 12</th>
+            <th>Seg 13</th>
+            <th>Seg 14</th>
+            <th>Seg 15</th>
+            <th>Seg 16</th>
+            <th>Seg 17</th>
+            <th>Seg 18</th>
+            <th>Seg 19</th>
+            <th>Seg 20</th>
+            <th>Seg 21</th>
+            <th>Seg 22</th>
+            <th>Seg 23</th>
+            <th>Seg 24</th>
+            <th>Seg 25</th>
+            <th>Seg 26</th>
+            <th>Seg 27</th>
+            <th>Seg 28</th>
+            <th>Seg 29</th>
+            <th>Seg 30</th>
+            <th>Seg 31</th>
+            <th />
+          </tr>
+
+          <tr>
+            <th style="font-size: 14px;">08:00</th>
+          </tr>
+
+          <tr cellpadding="3px">
+            <th style="text-align: right; padding: 0 5px; white-space: nowrap;">Avastin</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="width: 70px; heigth: 100%">
+              <div style="border: 1px solid black; border-radius: 100px; width: 100%; heigth: 100%; margin: 0 5px;">33% 33% 33%</div>
+            </th>
+          </tr>
+
+          <th>
+          <th colspan='31%' style="height:10px; background-color: #C6C6C6;"></th>
+          </th>
+
+          <tr>
+            <th style="text-align: right; padding: 0 5px; white-space: nowrap;">Angispress</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="width: 70px; heigth: 100%">
+              <div style="border: 1px solid black; border-radius: 100px; width: 100%; heigth: 100%; margin: 0 5px;">33% 33% 33%</div>
+            </th>
+          </tr>
+
+          <th>
+          <th colspan='31%' style="height:10px; background-color: #C6C6C6;"></th>
+          </th>
+
+          <tr>
+            <th style="text-align: right; padding: 0 5px; white-space: nowrap;">Avastin</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+          </tr>
+
+          <tr>
+            <th style="font-size: 14px;">12:00</th>
+          </tr>
+
+          <tr>
+            <th style="text-align: right; padding: 0 5px; white-space: nowrap;">ASS</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">O</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+            <th style="background-color: #C6C6C6;">X</th>
+          </tr>
+
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

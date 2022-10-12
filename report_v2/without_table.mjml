@@ -1,0 +1,199 @@
+<mjml height="595px">
+  <mj-head>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
+    <mj-attributes>
+      <mj-all font-family="Montserrat" font-size="9px" padding="0px" color="black" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="842px" background-color="white">
+    <mj-section>
+      <mj-column>
+        <mj-image width="60px" src="https://s3.sa-east-1.amazonaws.com/sequipe.epione.dev.br/assets/emailSequipe.png"></mj-image>
+
+        <mj-text font-size="14px">Relatório: </mj-text>
+        <mj-spacer height="4px" />
+        <mj-text font-size="14px">Paciente: </mj-text>
+        <mj-spacer height="4px" />
+        <mj-text font-size="14px">Data de nascimento: </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-group width="80%">
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="5px">Seg</mj-text>
+          <mj-spacer height="6px" />
+          <mj-text font-size="7px">01</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section text-align="left">
+      <mj-column width="100%" background-color="blue">
+        <mj-text font-size="14px">08:00</mj-text>
+      </mj-column>
+
+      <mj-column width="10%" padding-left="20px" background-color="yellow">
+        <!-- <mj-spacer height="6px" /> -->
+        <mj-text font-size="14px">Avastin</mj-text>
+        <!-- <mj-spacer height="6px" /> -->
+      </mj-column>
+      <mj-column width="10%" padding-left="20px" background-color="yellow">
+        <!-- <mj-spacer height="6px" /> -->
+        <mj-text font-size="14px">Avastin</mj-text>
+        <!-- <mj-spacer height="6px" /> -->
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
